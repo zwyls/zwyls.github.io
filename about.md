@@ -8,6 +8,7 @@ summary: "About the bride and the groom"
 active: about
 ---
 
+
 ## The Bride: Zi Wang
 
 [Zi Wang](http://zi-wang.com/) is a talented young lady pursuing her Ph.D. degree at Massachusetts Institute of Technoloy. She works with the [Learning and Intelligent Systems Group](http://lis.csail.mit.edu/new/) at the [Electrical Engineering & Computer Science](http://www.eecs.mit.edu/) Department. Under the guidance of Prof. Stefanie Jegelka, Prof. Leslie Pack Kaelbling, and Prof. Tomás Lozano-Pérez, Zi is working on exciting projects on active learning and Bayesian optimization with an ultimate goal of embedding the learning abilities in robots that help with household chores.
