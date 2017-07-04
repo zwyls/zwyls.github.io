@@ -4,7 +4,7 @@ layout: post
 title:  "Wedding Ceremony"
 crawlertitle: "About ES6"
 summary: "What's new in ES6"
-date:   2016-06-30 20:09:47 +0700
+date:   2017-09-02 20:09:47 +0700
 categories: posts
 tags: ['front-end']
 author: redVi
