@@ -4,7 +4,7 @@ layout: page
 title: "About Us"
 crawlertitle: "About Us"
 permalink: /about/
-summary: "About the bride and the groom"
+summary: "The bride and the groom"
 active: about
 ---
 
