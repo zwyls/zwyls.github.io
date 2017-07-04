@@ -1,12 +1,17 @@
 ---
-bg: "owl.jpg"
+bg: "about.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
+title: "About Us"
+crawlertitle: "Who are we"
 permalink: /about/
-summary: "About this blog"
+summary: "About the bride and the groom"
 active: about
 ---
+
+## The Bride: Zi Wang
+
+[Zi Wang](http://zi-wang.com/) is a 
+## The Grood: Yuliang Leon Sun
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
