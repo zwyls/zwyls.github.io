@@ -2,7 +2,7 @@
 bg: "about.jpg"
 layout: page
 title: "About Us"
-crawlertitle: "Who are we"
+crawlertitle: "About Us"
 permalink: /about/
 summary: "About the bride and the groom"
 active: about
