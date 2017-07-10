@@ -1,12 +1,12 @@
 ---
-bg: "tools.jpg"
+bg: "chapel.jpg"
 layout: post
 title:  "Wedding Ceremony"
-crawlertitle: "About ES6"
-summary: "What's new in ES6"
+crawlertitle: ""
+summary: ""
 date:   2017-07-04 20:09:47 +0700
 categories: posts
-tags: ['front-end']
+tags: ['wedding']
 author: ysun
 ---
 
