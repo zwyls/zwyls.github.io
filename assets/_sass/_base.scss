@@ -41,9 +41,9 @@ h5 { font-size: .8em; }
 h6 { font-size: .6em; }
 
 hr {
-background-color: #DCDCDC;
-height: 5px;
-margin: 10px;
+  border:0px none white; 
+  border-top:1px solid lightgrey; 
+  margin: 10px;
 }
 
 .heading {
