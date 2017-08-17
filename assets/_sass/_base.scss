@@ -46,6 +46,22 @@ hr {
   margin: 10px;
 }
 
+div{
+    height:200px;
+    width:200px;
+    position:relative;
+    
+    border-radius:10%;
+    
+    overflow:hidden;
+}
+img{
+    position:absolute;
+    left:-50%; right:-50%; top:0;
+    margin:auto;
+    height:100%; width:auto;
+}
+
 .heading {
   font-size: 2.3em;
   text-transform: uppercase;
