@@ -7,6 +7,8 @@ permalink: /photos/
 summary: "On our wedding day"
 active: photos
 ---
+[![Our Video](https://img.youtube.com/vi/BP_HxycEq5c/0.jpg)](https://www.youtube.com/watch?v=BP_HxycEq5c)
+
 ### The Ceremony at MIT Chapel
 ![Leon]({{ site.images }}/wedding/5DIV2409.jpg)
 ![At the Chapel]({{ site.images }}/wedding/5DIV2416.jpg)
