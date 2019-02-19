@@ -27,3 +27,10 @@ active: photos
 ![Esplanade]({{ site.images }}/wedding/3A2A2547.jpg)
 ![Esplanade]({{ site.images }}/wedding/5DIV2687.jpg)
 ![Esplanade]({{ site.images }}/wedding/3A2A2553.jpg)
+
+### The Reception in Nanxiang, Shanghai
+![Us]({{ site.images }}/wedding/MYF_6020.jpg)
+![Us]({{ site.images }}/wedding/MYF_6064.jpg)
+![Us]({{ site.images }}/wedding/MYF_5979.jpg)
+![Us]({{ site.images }}/wedding/MYF_5959.jpg)
+![Us]({{ site.images }}/wedding/MYF_6008.jpg)
