@@ -9,3 +9,5 @@ active: renovation
 ---
 
 ## [Click Here](https://drive.google.com/file/d/17Qe2qjQkhnUwTp5KTe1Kl5emIXKVAwc-/view?usp=sharing)
+
+Please email yuliangleonsun@gmail.com for information on the virtual meeting.
